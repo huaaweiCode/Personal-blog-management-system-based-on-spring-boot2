@@ -47,4 +47,8 @@
 ![后端博文评论](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305808.jpg)
 
 ![后端博文编辑](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305767.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：博客
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
